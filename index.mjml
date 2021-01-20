@@ -12,7 +12,7 @@
   <mj-body background-color="#ffdcb4" width="540px">
     <mj-section>
       <mj-column>
-        <mj-image src="./img/ленточка.png" padding-top="35px" alt="" />
+        <mj-image src="./img/ленточка.png" padding-top="34px" alt="" />
       </mj-column>
     </mj-section>
     <mj-section>
