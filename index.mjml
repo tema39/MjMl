@@ -18,14 +18,7 @@
     <mj-section>
       <mj-column>
         <mj-image src="./img/надпись.gif" padding-top="36px" alt="" />
-        <mj-text color="#010000" 
-        line-height="22px" 
-        padding-top="36px" 
-        padding-bottom="34px"
-        font-weight="400" 
-        font-family="Arial" 
-        font-size="18px" 
-        padding="0 50px">
+        <mj-text color="#010000" line-height="22px" padding-bottom="34px" padding-top="36px" font-weight="400" font-family="Arial" font-size="18px" padding="0 50px">
           Входим в новый год со скидкой 25% на
           <br>премиум-подписку по промокоду <b>YEAROFBOOKS.</b>
           <br>Потому что зима долгая и холодная, и надо как-то <br>занять вечера — а что может быть лучше книги?
@@ -35,27 +28,16 @@
       </mj-column>
     </mj-section>
     <mj-wrapper padding-bottom="46px">
-      <mj-section padding="30px">
+      <mj-section padding="0 30px">
         <mj-column>
           <mj-image width="178px" padding-bottom="16px" src="./img/купить_себе.png" alt="" />
-          <mj-button  
-          border-radius="20px" 
-          width="192px"
-          font-family="Arial"
-          font-size="14px" 
-          background-color="#4eb2ca"
-          height="42px">
+          <mj-button border-radius="20px" width="192px" font-family="Arial" font-size="14px" background-color="#4eb2ca" height="42px">
             <b>Купить себе
           </mj-button>
         </mj-column>
-        <mj-column >
+        <mj-column>
           <mj-image width="178px" padding-bottom="16px" src="./img/купить_в_подарок.png" alt="" />
-          <mj-button border-radius="20px"
-          width="192px" 
-          background-color="#4eb2ca"
-          font-family="Arial"
-          font-size="14px"
-          height="42px" >
+          <mj-button border-radius="20px" width="192px" background-color="#4eb2ca" font-family="Arial" font-size="14px" height="42px">
             <b>Купить себе
           </mj-button>
         </mj-column>
@@ -63,56 +45,29 @@
     </mj-wrapper>
     <mj-section padding-bottom="40px">
       <mj-column>
-        <mj-text align="center" 
-        padding-bottom="34px"
-        font-size="28px" 
-        font-family="Arial - Bold MT">
+        <mj-text align="center" padding-bottom="34px" font-size="28px" font-family="Arial - Bold">
           <b>Что выбрать
         </mj-text>
-        <mj-text font-family="Arial" 
-        letter-spacing="1px"
-        padding-bottom="17px" 
-        font-size="18px"
-        line-height="20px" 
-        padding="0 20px"
-        color="#010000">
-          Подготовили для вас подборку синхронизированных 
-          <br>книг — начинайте читать и продолжайте слушать с 
-          <br>того места, на котором остановились. Это чертовски 
+        <mj-text font-family="Arial" letter-spacing="1px" padding-bottom="17px" font-size="18px" line-height="20px" padding="0 20px" color="#010000">
+          Подготовили для вас подборку синхронизированных
+          <br>книг — начинайте читать и продолжайте слушать с
+          <br>того места, на котором остановились. Это чертовски
           <br>удобно.
         </mj-text>
-        <mj-image
-        width="395px"
-        padding-left="50px"
-        padding-right="10px" 
-        src="./img/книга-2.gif" 
-        padding-bottom="26px" alt="" />
-        <mj-button border-radius="20px" 
-        font-family="Arial"
-        font-weight="400"
-        width="192px"
-        font-size="14px"
-        background-color="#4eb2ca"
-        height="42px">
+        <mj-image width="395px" padding-left="50px" padding-right="10px" src="./img/книга-2.gif" padding-bottom="26px" alt="" />
+        <mj-button border-radius="20px" font-family="Arial" font-weight="400" width="192px" font-size="14px" background-color="#4eb2ca" height="42px">
           <b>Выбрать книгу
         </mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column background-color="#ff8169">
-        <mj-text font-family="Arial"
-        letter-spacing="0.1px" 
-        font-style="normal" 
-        font-size="14px"
-        font-weight="bold" 
-        padding="23px 40px"
-        line-height="18px"
-        color="#110807">
-          Акция действует на сайте mybook.ru до 23:59 мск 31 января. При 
-          <br>активации промокода цена премиум-подписки снизится на 25%. 
-          <br>YEAROFBOOKS – код на покупку подписки себе. При наличии 
-          <br>подписки сроки суммируются. BESTPRESENT – код на покупку 
-          <br>подарочного сертификата. Подарочный сертификат нельзя 
+        <mj-text font-family="Arial" letter-spacing="0.1px" font-style="normal" font-size="14px" font-weight="bold" padding="23px 40px" line-height="18px" color="#110807">
+          Акция действует на сайте mybook.ru до 23:59 мск 31 января. При
+          <br>активации промокода цена премиум-подписки снизится на 25%.
+          <br>YEAROFBOOKS – код на покупку подписки себе. При наличии
+          <br>подписки сроки суммируются. BESTPRESENT – код на покупку
+          <br>подарочного сертификата. Подарочный сертификат нельзя
           <br>активировать в своем аккаунте.
         </mj-text>
       </mj-column>
