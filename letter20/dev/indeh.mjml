@@ -24,7 +24,7 @@
   </mj-style>
 </mj-head>
 <mj-body background-color="#ffdcb4" width="540px">
-<mj-section>
+ <mj-section>
       <mj-column>
         <mj-image src="images/content/ленточка.png" padding-top="35px" alt="" />
       </mj-column>
@@ -35,25 +35,25 @@
         <mj-text color="#010000" line-height="22px" padding-bottom="34px" padding-top="36px" font-weight="400" font-family="Arial" font-size="18px" padding="0 50px">
           Входим в новый год со скидкой 25% на
           <br>премиум-подписку по промокоду <b>YEAROFBOOKS.</b>
-          <br>Потому что зима долгая и холодная, и надо как-то <br>занять вечера — а что может быть лучше книги?
-          <br>Кстати, если вам нужно сделать подарок, дарите
-          <br>сертификаты: прямо сейчас на них тоже действует <br>скидка по промокоду <b>BESTPRESENT.
+          Потому что зима долгая и холодная, и надо как-то занять вечера — а что может быть лучше книги?
+          Кстати, если вам нужно сделать подарок, дарите
+          сертификаты: прямо сейчас на них тоже действует скидка по промокоду <b>BESTPRESENT.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper padding-bottom="46px">
-      <mj-section padding="0 0">
-        <mj-column> 
-          <mj-image width="178px" padding-bottom="16px" src="images/content/купить_себе.png" alt="" />
+      <mj-section padding="0 0px">
+        <mj-column>
+          <mj-image href="https://mybook.ru/payments/premium/?months=12&redeem_code=YEAROFBOOKS" width="178px" padding-bottom="16px" src="images/content/купить_себе.png" alt="" />
           <mj-button border-radius="20px" width="192px" font-family="Arial" font-size="14px" background-color="#4eb2ca" height="42px" 
           href="https://mybook.ru/payments/premium/?months=12&redeem_code=YEAROFBOOKS">
             <b>Купить себе
           </mj-button>
         </mj-column>
         <mj-column>
-          <mj-image width="178px" padding-bottom="16px" src="images/content/купить_в_подарок.png" alt="" />
-          <mj-button href="https://mybook.ru/payments/premium/?months=12&redeem_code=YEAROFBOOKS" border-radius="20px" width="192px" background-color="#4eb2ca" font-family="Arial" font-size="14px" height="42px">
-            <b>Купить себе
+          <mj-image href="https://mybook.ru/purchase_gift/?promoCode=BESTPRESENT" width="178px" padding-bottom="16px" src="images/content/купить_в_подарок.png" alt="" />
+          <mj-button href="https://mybook.ru/purchase_gift/?promoCode=BESTPRESENT" border-radius="20px" width="192px" background-color="#4eb2ca" font-family="Arial" font-size="14px" height="42px">
+            <b>Купить в подарок
           </mj-button>
         </mj-column>
       </mj-section>
@@ -65,27 +65,26 @@
         </mj-text>
         <mj-text font-family="Arial" letter-spacing="1px" padding-bottom="17px" font-size="18px" line-height="20px" padding="0 20px" color="#010000">
           Подготовили для вас подборку синхронизированных
-          <br>книг — начинайте читать и продолжайте слушать с
-          <br>того места, на котором остановились. Это чертовски
-          <br>удобно.
+          книг — начинайте читать и продолжайте слушать с
+          того места, на котором остановились. Это чертовски
+          удобно.
         </mj-text>
-        <mj-image width="395px" padding-left="50px" padding-right="10px" src="images/content/книга-2.gif" padding-bottom="26px" alt="" />
-        <mj-button href="https://mybook.ru/payments/premium/?months=12&redeem_code=YEAROFBOOKS" border-radius="20px" font-family="Arial" font-weight="400" width="192px" font-size="14px" background-color="#4eb2ca" height="42px">
+        <mj-image href="https://mybook.ru/sets/10705-top-sinhronizirovannyh-knig/" width="395px" padding-left="50px" padding-right="10px" src="images/content/книга-2.gif" padding-bottom="26px" alt="" />
+        <mj-button href="https://mybook.ru/sets/10705-top-sinhronizirovannyh-knig/" border-radius="20px" font-family="Arial" font-weight="400" width="192px" font-size="14px" background-color="#4eb2ca" height="42px">
           <b>Выбрать книгу
         </mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column >
-      <mj-image src="./img/2-layers.png"  alt="" />
-        <!-- <mj-text font-family="Arial sans-serif" font-size="14px" font-weight="400" padding-left="46px" padding-top="23px" padding-bottom="22px" line-height="18px" color="#010000">
+      <mj-column background-color="#ff8169" >
+        <mj-text  padding-top="23px" padding-bottom="22px" padding-left="46px" padding-right="69px" font-weight="600" font-size="14px" font-family="Arial, sans-serif"color="#010000"> 
           Акция действует на сайте mybook.ru до 23:59 мск 31 января. При
-          <br>активации промокода цена премиум-подписки снизится на 25%.
-          <br>YEAROFBOOKS – код на покупку подписки себе. При наличии
-          <br>подписки сроки суммируются. BESTPRESENT – код на покупку
-          <br>подарочного сертификата. Подарочный сертификат нельзя
-          <br>активировать в своем аккаунте.
-        </mj-text> -->
+          активации промокода цена премиум-подписки снизится на 25%.
+          YEAROFBOOKS – код на покупку подписки себе. При наличии
+          подписки сроки суммируются. BESTPRESENT – код на покупку
+          подарочного сертификата. Подарочный сертификат нельзя
+          активировать в своем аккаунте.
+        </mj-text>
       </mj-column>
     </mj-section>
 
