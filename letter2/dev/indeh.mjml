@@ -1,0 +1,91 @@
+<mjml>
+<mj-head>
+  <mj-attributes>
+    <mj-all padding="0px" />
+    <mj-text font-family="Arial, sans-serif" />        
+    <mj-breakpoint width="320px" />
+    <mj-class 
+      name="button"
+      font-family="Arial"
+      font-size="14px"
+      font-weight="bold"
+      text-transform="uppercase"
+      color="#ffffff"
+      background-color="#ff8b57"
+      border-radius="12px"
+    /> 
+  </mj-attributes>
+  <mj-style>
+    .bg-wrapper, .bg-wrapper > div > table { background-position: center bottom !important; }
+    
+    .btn-link > table td {
+      padding: 14px !important;
+    }
+  </mj-style>
+</mj-head>
+<mj-body background-color="#ffdcb4" width="540px">
+ <mj-section>
+      <mj-column>
+        <mj-image src="images/content/ленточка.png" padding-top="35px" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/content/надпись.gif" padding-top="36px" alt="" />
+        <mj-text color="#010000" line-height="22px" padding-bottom="34px" padding-top="36px" font-weight="400" font-family="Arial" font-size="18px" padding="0 50px">
+          Входим в новый год со скидкой 25% на
+          <br>премиум-подписку по промокоду <b>YEAROFBOOKS.</b>
+          Потому что зима долгая и холодная, и надо как-то занять вечера — а что может быть лучше книги?
+          Кстати, если вам нужно сделать подарок, дарите
+          сертификаты: прямо сейчас на них тоже действует скидка по промокоду <b>BESTPRESENT.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-bottom="46px">
+      <mj-section padding="0 0px">
+        <mj-column>
+          <mj-image href="https://mybook.ru/payments/premium/?months=12&redeem_code=YEAROFBOOKS" width="178px" padding-bottom="16px" src="images/content/купить_себе.png" alt="" />
+          <mj-button border-radius="20px" width="192px" font-family="Arial" font-size="14px" background-color="#4eb2ca" height="42px" 
+          href="https://mybook.ru/payments/premium/?months=12&redeem_code=YEAROFBOOKS">
+            <b>Купить себе
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://mybook.ru/purchase_gift/?promoCode=BESTPRESENT" width="178px" padding-bottom="16px" src="images/content/купить_в_подарок.png" alt="" />
+          <mj-button href="https://mybook.ru/purchase_gift/?promoCode=BESTPRESENT" border-radius="20px" width="192px" background-color="#4eb2ca" font-family="Arial" font-size="14px" height="42px">
+            <b>Купить в подарок
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section padding-bottom="40px">
+      <mj-column>
+        <mj-text align="center" padding-bottom="34px" font-size="28px" font-weight="600" font-family="Arial - Bold">
+          Что выбрать
+        </mj-text>
+        <mj-text font-family="Arial" letter-spacing="1px" padding-bottom="17px" font-size="18px" line-height="20px" padding="0 20px" color="#010000">
+          Подготовили для вас подборку синхронизированных
+          книг — начинайте читать и продолжайте слушать с
+          того места, на котором остановились. Это чертовски
+          удобно.
+        </mj-text>
+        <mj-image href="https://mybook.ru/sets/10705-top-sinhronizirovannyh-knig/" width="395px" padding-left="50px" padding-right="10px" src="images/content/книга-2.gif" padding-bottom="26px" alt="" />
+        <mj-button href="https://mybook.ru/sets/10705-top-sinhronizirovannyh-knig/" border-radius="20px" font-family="Arial" font-weight="400" width="192px" font-size="14px" background-color="#4eb2ca" height="42px">
+          <b>Выбрать книгу
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#ff8169" >
+        <mj-text  padding-top="23px" padding-bottom="22px" padding-left="46px" padding-right="69px" font-weight="600" font-size="14px" font-family="Arial, sans-serif"color="#010000"> 
+          Акция действует на сайте mybook.ru до 23:59 мск 31 января. При
+          активации промокода цена премиум-подписки снизится на 25%.
+          YEAROFBOOKS – код на покупку подписки себе. При наличии
+          подписки сроки суммируются. BESTPRESENT – код на покупку
+          подарочного сертификата. Подарочный сертификат нельзя
+          активировать в своем аккаунте.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+</mj-body>    
