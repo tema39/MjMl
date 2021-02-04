@@ -1,0 +1,74 @@
+<mjml>
+<mj-head>
+  <mj-attributes>
+    <mj-all padding="0px" />
+    <mj-text font-family="Arial, sans-serif" />        
+    <mj-breakpoint width="320px" />
+    <mj-class 
+      name="button"
+      font-family="Arial"
+      font-size="14px"
+      font-weight="bold"
+      text-transform="uppercase"
+      color="#ffffff"
+      background-color="#ff8b57"
+      border-radius="12px"
+    /> 
+  </mj-attributes>
+  <mj-style>
+    .bg-wrapper, .bg-wrapper > div > table { background-position: center bottom !important; }
+    
+    .btn-link > table td {
+      padding: 14px !important;
+    }
+  </mj-style>
+</mj-head>
+<mj-body width="540px">
+    <mj-wrapper background-url="./images/content/fon.png" background-size="100% 100%">
+    <mj-section>
+      <mj-column width="540px">
+        <mj-text padding-top="69px" align="center" font-size="40px" font-family="Arial" color="#ffffff">
+          <b>-20% на подарочные
+            <br>cертификаты
+        </mj-text>
+        <mj-text font-size="18px" font-family="Arial" padding-left="63px" padding-right="48px" line-height="21px" color="#ffffff" padding-top="32px" padding-bottom="40px">
+          Если не знаете, что подарить близким, у нас есть идея. Подарите им выбор — сертификат на подписку откроет доступ к библиотеке с книгами, аудиокнигами и подкастами. Промокоды дают скидку 20%, но использовать каждый из них можно только один раз.
+        </mj-text>
+      </mj-column>
+      <mj-column width="540px">
+        <mj-button href="https://mybook.ru/purchase_gift/?promoCode=LOVESTORY" width="244px" border-radius="18px" font-size="15px" font-family="Arial" color="#000000" background-color="#ffcd43" padding-bottom="11px">
+          <b>Подарок на 14 февраля
+        </mj-button>
+        <mj-text color="#fefefe" font-family="Arial" font-size="17px" align="center"  padding-bottom="27px">
+          <b>LOVESTORY
+        </mj-text>
+        <mj-button  href="https://mybook.ru/purchase_gift/?promoCode=LOVEMAN"  width="244px" border-radius="18px" font-size="15px" font-family="Arial" color="#000000" background-color="#ffcd43" padding-bottom="11px">
+          <b>Подарок на 23 февраля
+        </mj-button>
+        <mj-text  color="#fefefe" font-family="Arial" font-size="17px" align="center" padding-bottom="23px">
+          <b>LOVEMAN
+        </mj-text>
+        <mj-button href="https://mybook.ru/purchase_gift/?promoCode=GIRLPOWER" width="244px" border-radius="18px" font-size="15px" font-family="Arial" color="#000000" background-color="#ffcd43" padding-bottom="13px">
+          <b>Подарок на 8 марта
+        </mj-button>
+        <mj-text  color="#fefefe" font-family="Arial" font-size="17px" align="center" padding-bottom="31px">
+        <b>GIRLPOWER
+        </mj-text>
+      </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="19px">
+      <mj-column width="540px">
+        <mj-image align="center" width="240px" href="https://mybook.ru/sets/10755-novinki-nedeli-1-7-fevralya/" src="./images/content/book.png" alt="" />
+      </mj-column>
+      </mj-section>
+      </mj-section>
+      <mj-section>
+      <mj-column padding-top="158px">
+        <mj-text color="#413c3d" font-family="Arial" font-size="14px" line-height="16px" padding-left="42px" padding-right="42px" padding-bottom="49px">
+          <b>Акция действует на сайте mybook.ru до 23:59 мск 14 февраля. При применении промокода цена подарочной премиум-подписки снизится на 20%. Сразу после оплаты подарок придет на почту вашего близкого. Обратите внимание, что подарочный сертификат нельзя активировать в своем аккаунте. 
+        </mj-text>
+      </mj-column>
+      </mj-column>
+      </mj-section>
+    </mj-wrapper>
+</mj-body>    
